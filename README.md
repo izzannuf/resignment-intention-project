@@ -1,7 +1,7 @@
 # resignment-intention-project
-Our final project for our Artificial Intelligence and Data Science class. Tasked with a large dataset, we were instructed to explore the dataset, analyze it, and make machine learning models to help the company make better data driven decisions.
+Our final project for our Artificial Intelligence and Data Science class. Tasked with a large dataset, we were instructed to **explore the dataset, analyze it, and make machine learning models to help the company make better data driven decisions**.
 
-For our project, we were given a dataset about resignment intention in a company. Our tasks included:
+For our project, we were given a dataset about **resignment intention** in a company. Our tasks included:
 1. Visualizing the characteristics of employees that wanted to resign.
 2. Finding out if employees choose to resign after getting a promotion.
 3. Finding out which department has the most loyal employees.
